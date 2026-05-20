@@ -1,0 +1,6 @@
+{
+  "name": "Ember-Forged Sanctuary",
+  "description": "An immersive dragonborn village, shrine, history archive, and war planning console with real-time interactive actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
